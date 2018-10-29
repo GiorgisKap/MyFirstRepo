@@ -9,7 +9,7 @@ namespace MyOtherFirstRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Main");
+           // Console.WriteLine("Main");
             Console.ReadKey();
         }
     }
